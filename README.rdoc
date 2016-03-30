@@ -1,0 +1,11 @@
+== README
+
+Steps to setup and use service:
+
+bundle install
+
+rake db:create db:migrate
+
+For tests:
+
+bundle exec rspec ./
